@@ -1,0 +1,9 @@
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    font-size: 3em;
+    text-shadow: 2px 2px 3px hsla(0, 0%, 0%, 0.75);
+}
